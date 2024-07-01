@@ -1,0 +1,116 @@
+Total Seats Won by Each Party:
+                                                Party  Won
+0                                  AJSU Party - AJSUP    1
+1                              Aam Aadmi Party - AAAP    3
+2              Aazad Samaj Party (Kanshi Ram) - ASPKR    1
+3      All India Majlis-E-Ittehadul Muslimeen - AIMIM    1
+4                 All India Trinamool Congress - AITC   29
+5                          Apna Dal (Soneylal) - ADAL    1
+6                            Asom Gana Parishad - AGP    1
+7                   Bharat Adivasi Party - BHRTADVSIP    1
+8                        Bharatiya Janata Party - BJP  240
+9        Communist Party of India  (Marxist) - CPI(M)    4
+10  Communist Party of India  (Marxist-Leninist)  ...    2
+11                     Communist Party of India - CPI    2
+12                    Dravida Munnetra Kazhagam - DMK   22
+13            Hindustani Awam Morcha (Secular) - HAMS    1
+14                                  Independent - IND    7
+15                     Indian National Congress - INC   99
+16                  Indian Union Muslim League - IUML    3
+17          Jammu & Kashmir National Conference - JKN    2
+18                               Janasena Party - JnP    2
+19                      Janata Dal  (Secular) - JD(S)    2
+20                       Janata Dal  (United) - JD(U)   12
+21                       Jharkhand Mukti Morcha - JMM    3
+22                              Kerala Congress - KEC    1
+23             Lok Janshakti Party(Ram Vilas) - LJPRV    5
+24      Marumalarchi Dravida Munnetra Kazhagam - MDMK    1
+25                   Nationalist Congress Party - NCP    1
+26  Nationalist Congress Party – Sharadchandra Paw...    8
+27                         Rashtriya Janata Dal - RJD    4
+28                            Rashtriya Lok Dal - RLD    2
+29                  Rashtriya Loktantrik Party - RLTP    1
+30                Revolutionary Socialist Party - RSP    1
+31                               Samajwadi Party - SP   37
+32                          Shiromani Akali Dal - SAD    1
+33     Shiv Sena (Uddhav Balasaheb Thackrey) - SHSUBT    9
+34                                    Shiv Sena - SHS    7
+35                     Sikkim Krantikari Morcha - SKM    1
+36                                 Telugu Desam - TDP   16
+37              United People’s Party, Liberal - UPPL    1
+38               Viduthalai Chiruthaigal Katchi - VCK    2
+39                  Voice of the People Party - VOTPP    1
+40      Yuvajana Sramika Rythu Congress Party - YSRCP    4
+41                      Zoram People’s Movement - ZPM    1
+
+Total Seats (Won + Leading) by Each Party:
+                                                Party  Total
+0                                  AJSU Party - AJSUP      1
+1                              Aam Aadmi Party - AAAP      3
+2              Aazad Samaj Party (Kanshi Ram) - ASPKR      1
+3      All India Majlis-E-Ittehadul Muslimeen - AIMIM      1
+4                 All India Trinamool Congress - AITC     29
+5                          Apna Dal (Soneylal) - ADAL      1
+6                            Asom Gana Parishad - AGP      1
+7                   Bharat Adivasi Party - BHRTADVSIP      1
+8                        Bharatiya Janata Party - BJP    240
+9        Communist Party of India  (Marxist) - CPI(M)      4
+10  Communist Party of India  (Marxist-Leninist)  ...      2
+11                     Communist Party of India - CPI      2
+12                    Dravida Munnetra Kazhagam - DMK     22
+13            Hindustani Awam Morcha (Secular) - HAMS      1
+14                                  Independent - IND      7
+15                     Indian National Congress - INC     99
+16                  Indian Union Muslim League - IUML      3
+17          Jammu & Kashmir National Conference - JKN      2
+18                               Janasena Party - JnP      2
+19                      Janata Dal  (Secular) - JD(S)      2
+20                       Janata Dal  (United) - JD(U)     12
+21                       Jharkhand Mukti Morcha - JMM      3
+22                              Kerala Congress - KEC      1
+23             Lok Janshakti Party(Ram Vilas) - LJPRV      5
+24      Marumalarchi Dravida Munnetra Kazhagam - MDMK      1
+25                   Nationalist Congress Party - NCP      1
+26  Nationalist Congress Party – Sharadchandra Paw...      8
+27                         Rashtriya Janata Dal - RJD      4
+28                            Rashtriya Lok Dal - RLD      2
+29                  Rashtriya Loktantrik Party - RLTP      1
+30                Revolutionary Socialist Party - RSP      1
+31                               Samajwadi Party - SP     37
+32                          Shiromani Akali Dal - SAD      1
+33     Shiv Sena (Uddhav Balasaheb Thackrey) - SHSUBT      9
+34                                    Shiv Sena - SHS      7
+35                     Sikkim Krantikari Morcha - SKM      1
+36                                 Telugu Desam - TDP     16
+37              United People’s Party, Liberal - UPPL      1
+38               Viduthalai Chiruthaigal Katchi - VCK      2
+39                  Voice of the People Party - VOTPP      1
+40      Yuvajana Sramika Rythu Congress Party - YSRCP      4
+41                      Zoram People’s Movement - ZPM      1
+
+Top 5 Parties by Seats Won:
+                                  Party  Won
+8          Bharatiya Janata Party - BJP  240
+15       Indian National Congress - INC   99
+31                 Samajwadi Party - SP   37
+4   All India Trinamool Congress - AITC   29
+12      Dravida Munnetra Kazhagam - DMK   22
+
+Correlation between Seats Won and Total Seats (Won + Leading):
+1.0
+
+Total Seats Won:
+543
+
+Total Seats Leading:
+0
+
+Number of Parties Participated:
+42
+
+Average Seats Won per Party:
+12.928571428571429
+
+Average Seats Leading per Party:
+0.0
+
